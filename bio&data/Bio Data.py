@@ -1,0 +1,6 @@
+print("My Name is C.Tamil selvem")
+print("My Age is twenty three")
+print("My D.O.B 4-1-2002")
+print("Address: Thachan kovil street,paravai,madurai-625402")
+print("Ph No:7092394083")
+print("Gmail: ctamill7092@7092")
